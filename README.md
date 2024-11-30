@@ -1,7 +1,3 @@
-
-### README para el Backend (Spring Boot)
-
-
 # Todo List Backend
 
 This is the backend application for the Todo List project. It is built using Spring Boot and provides a REST API to manage tasks.
